@@ -1,7 +1,11 @@
 -🧑‍🎓 B.Tech CSE student from New Delhi.
+
 -📔 Interested in Data Analytics and Python Programming.
+
 -👾 Loves to play video games.
+
 -📚 I am a fast learner.
+
 -📽️ Love to edit video using DaVinci Resolve
 
 <!---
