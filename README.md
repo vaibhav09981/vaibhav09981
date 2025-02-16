@@ -1,10 +1,15 @@
 ▶️ABOUT ME:-
 
 -🧑‍🎓 B.Tech CSE student from New Delhi.
+
 -📔 Interested in Data Analytics and Python Programming.
+
 -💻 Passionate and motivated Front End Developer with a strong foundation in HTML, CSS, and JavaScript.
+
 -👾 Loves to play video games.
+
 -📚 I am a fast learner.
+
 -📽️ Love to edit video using DaVinci Resolve.
 
 
