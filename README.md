@@ -1,3 +1,8 @@
+<div align="center">
+  <img src="https://res.cloudinary.com/dk6m8nzz3/image/upload/v1757250896/I_m_VAIBHAV_JAMLOKI_la3c3k.gif" width="100%" />
+</div>
+
+---
 # 💫 About Me:
 Hi 👋, I'm Vaibhav Jamloki<br><br>A passionate frontend developer from India<br><br>👨‍💻 All of my projects are available at https://vaibhavppf.netlify.app/<br><br>📫 How to reach me vaibhavjj99@gmail.com
 
