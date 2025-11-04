@@ -4,7 +4,7 @@
 
 ---
 # 💫 About Me:
-Hi 👋, I'm Vaibhav Jamloki<br><br>A passionate frontend developer from India<br><br>👨‍💻 All of my projects are available at https://vaibhavppf.netlify.app/<br><br>📫 How to reach me vaibhavjj99@gmail.com
+Hi 👋, I'm Vaibhav Jamloki<br><br>A passionate frontend developer from India<br><br>👨‍💻 All of my projects are available at https://vaibhavjamloki-dev.netlify.app/<br><br>📫 How to reach me vaibhavjj99@gmail.com
 
 
 ## 🌐 Socials:
